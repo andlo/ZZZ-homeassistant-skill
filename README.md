@@ -1,10 +1,6 @@
 # Home Assistant Skill for Mycroft
 
-**UPDATE PLEASE READ**
-
-I have decided to not continue supporting this or maintain this skill any longer, I have opted to start using other platforms for my voice needs.
-
-Feel free to take this over but I will be archiving this repo.
+## THIS IS A COPY OF ORIGINAL WORK FROM @btotharye
 
 ## About 
 Home Assistant is a open source project that lets you control all your smart devices in a single easy to use UI.  This skill talks to Home Assistant's REST API and controls devices and entities you have configured.  Control your lights, garage door, thermostats and more.
